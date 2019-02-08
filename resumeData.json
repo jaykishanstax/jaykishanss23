@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name": "Jaykishan Hirpara",
+    "petname": "Jaykishan",
+    "occupation": "Software Engineer",
+    "description": " with 5+ years of experience in designing, developing robust application software with high standards. I am working as a Full stack developer. I have experience to work with MNC as well as startup organization on a wide range of technologies.",
+    "image": "profilepic.jpg",
+    "bio": "I have started using JAVA in 2013 when i was doing my internship. During those days as an intern, i actively spent many hours studying the core concepts behind java with hands on practical experience. Since that I am very passionate about new technology, phase complex challenges in work and constantly learning new stuffs out of it.  I enjoy turning complex problems into simple and always sought out opportunities and challenges that are meaningful to me. I worked with US and UK client on different domain like Consumer Goods, Manufacturing and Life science. I get a great experience to work on each phase of the product development life cycle from from start-up organization, where we have design, developed & maintain new product. ",
+    "contactmessage": "You can contact me at",
+    "email": "jaykishanss23@gmail.com",
+    "phone": "+91-9558092410",
+    "address": {
+      "street": "Meghaninagar",
+      "city": "Ahmeadabad",
+      "state": "Gujarat",
+      "zip": "380016"
+    },
+    "website": "https://www.linkedin.com/in/jaykishanss23/",
+    "resumedownload": "https://drive.google.com/file/d/13Pqmu2Eowfm0Lo7IL7aDFRrcbAtEHu7T/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/jaykishanss",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "https://plus.google.com/+jaykishanhirpara",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jaykishanss23/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/users/4125260/jaykishan-hirpara",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jaykishanstax",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Any good developer can program in ANY language just like any good designer can design in ANY medium.",
+    "education": [
+      {
+        "school": "Gujarat Technological University",
+        "degree": "Bachelor of Engineering in Information Technology",
+        "graduated": "June 2013",
+        "description": "Completed with 8.02/10.00 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "SuperTax (MyPOS technology PVT LTD.)",
+        "title": "Software Engineer",
+        "years": "March 2018 - Present",
+        "description": "Supertax is a startup, working in Financial domain. We are working on diffrent technology like Java, spring-boot, reactJs, Node with microservice architecture. I have worked on lots of New technology and tools like, ElasticSearch (ELK), Filebeat, Spring cloud sleuth, Flyway, Swagger, Microservice architech etc. "
+      },
+      {
+        "company": "iBASEt India Software Pvt. Ltd.",
+        "title": "Software Engineer",
+        "years": "June 2015 - March 2018",
+        "description": "Working as an Offshore software engineer, to customize product based on customer requirement and integration methodology. I closely worked with France and Belgium clients on their new design approach as well as fixing technical problems and performance issue to make system robust and fast."
+      },
+      {
+        "company": "StayinFront India Pvt. Ltd",
+        "title": "Business Model Engineer",
+        "years": "July 2013 - June 2015",
+        "description": "Working with client to customize product based on their requiremtn, Implement a KPI's Developed import-export data interface."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "image": "java.jpg"
+      },
+      {
+        "name": "Spring",
+        "image": "spring_boot.png"
+      },
+      {
+        "name": "SQL",
+        "image": "sql.png"
+      },
+      {
+        "name": "Flyway",
+        "image": "flyway.png"
+      },
+      {
+        "name": "React Js",
+        "image": "react.jpg"
+      },
+      {
+        "name": "Git",
+        "image": "git.jpg"
+      },
+      {
+        "name": "Junit",
+        "image": "junit.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Marathon Completed",
+        "category": "half marathon completed in 2 hour in 2014",
+        "image": "half_marathon_2014.jpg",
+        "url": "https://drive.google.com/file/d/1O3AuBp3TRFTUG7MI5gBuS0Z0Z2A5DEB2/view?usp=sharing"
+      },
+      {
+        "title": "Marathon Completed",
+        "category": "half marathon completed in 2 hour in 2016",
+        "image": "half_marathon_2016.jpg",
+        "url": "https://drive.google.com/file/d/1jI3QtyOaQmLj1JOzkU_VKy9GbSnPToCx/view?usp=sharing"
+      },
+      {
+        "title": "Junit completion",
+        "category": "A React based resume website template",
+        "image": "junit_course.jpg",
+        "url": "https://drive.google.com/file/d/0B4yTb-Sv-Sd3TG1IcEdGaDFzcG8/view?usp=sharing"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Jaykishan is very quick to understand the technical as well as business needs of customer and work diligently toward a win-win situation. Keep it up good work Jaykishan",
+        "user": "Rajesh Shah"
+      },
+      {
+        "text": "It was a pleasure of working with Jaykishan for 1 year. He is proactive and excellent Java developer. You can give him any task and he will make sure its done with utmost accuracy. I am confident that he will be one of best developer. I enjoyed working with him.",
+        "user": "Dhiren Patel"
+      }
+    ]
+  }
+}
