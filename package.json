@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://jaykishanstax.github.io/jaykishanss23/",
   "dependencies": {
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.2.0",
     "jquery": "^3.2.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
